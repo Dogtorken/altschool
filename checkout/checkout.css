@@ -1,0 +1,68 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.first-div{
+    width: 1200px;
+    height: 1100px;
+}
+
+.wp-pusher{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    padding-top: 150px;
+    
+    
+}
+
+.header{
+    width: 1100px;
+    position: absolute;
+    top: 50px;
+}
+
+.sidebar{
+    position: absolute;
+    height: 400px;
+    width: 150px;
+    right: 162px;
+
+}
+
+.checkout{
+    margin-top: 6px;
+    width: 50%;
+}
+
+.info, .info-one{
+    display: inline-block;
+}
+
+.info-one{
+    border: 1px;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.info{
+    padding-left: 5px;
+}
+
+form{
+    justify-content: center;
+}
+.buy{
+    background-color: rgb(17, 145, 17);
+    border: 0px;
+    padding: 5px 30px;
+}
+
+button{
+    padding-left: 30px;
+}
